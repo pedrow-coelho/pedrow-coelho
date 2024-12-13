@@ -14,9 +14,8 @@ Sou um profissional **SRE|DevOps** focado em tecnologia e inovação, com o obje
 - 🗣️ Sempre aberto para aprender novas ferramentas e melhorar processos de operação
 
 ## 📈 Estatísticas de Contribuição
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrow-coelho&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrow-coelho&layout=compact&theme=dark)
 
 ## 📫 Como chegar até mim:
 
