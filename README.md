@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou o [Pedro Coelho](https://github.com/pedrow-coelho) 👋
 
-<!--
-**pedrow-coelho/pedrow-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional **SRE|DevOps** focado em tecnologia e inovação, com o objetivo de otimizar processos e alcançar resultados eficientes. Trabalho de maneira organizada para enfrentar desafios, sempre buscando soluções práticas que contribuam para o sucesso da equipe e da organização.
 
-Here are some ideas to get you started:
+"Melhorar o trabalho diário é ainda mais importante do que fazer o trabalho diário."
+— **Gene Kim**, The Phoenix Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim:
+- 🔧 Experiência em automação de infraestrutura e pipelines de CI/CD
+- ☁️ Trabalho com **AWS** e **Google Cloud**
+- 📈 Foco em **monitoramento**, **logging** e **observabilidade**
+- 🛠️ Ferramentas que uso no dia a dia: **Docker**, **Kubernetes**, **Terraform**, **Terragrunt**, **Prometheus**, **Grafana**, **Github Actions**
+- 💻 Programação com **Bash**, **Go**, **Yaml**, **Gotmpl**
+- 🗣️ Sempre aberto para aprender novas ferramentas e melhorar processos de operação
+
+## 📈 Estatísticas de Contribuição
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dark)
+
+## 📫 Como chegar até mim:
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/pedro-coelho20/)
+- ✉️ pedrolucasbcsilva@gmail.com
+
+### 🔗 Meus repositórios
+
+- [Repositório de Automação com Terraform](https://github.com/seunome/terraform)
+- [Repositório de Monitoramento com Prometheus](https://github.com/seunome/prometheus)
+- [Repositório de Scripts e Ferramentas de SRE](https://github.com/seunome/sre-tools)
