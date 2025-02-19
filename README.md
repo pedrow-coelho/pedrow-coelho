@@ -9,7 +9,7 @@ Sou um profissional **SRE|DevOps** focado em tecnologia e inovação, com o obje
 - 🔧 Experiência em automação de infraestrutura e pipelines de CI/CD
 - ☁️ Trabalho com **AWS** e **Google Cloud**
 - 📈 Foco em **monitoramento**, **logging** e **observabilidade**
-- 🛠️ Ferramentas que uso no dia a dia: **Docker**, **Kubernetes**, **Terraform**, **Terragrunt**, **Prometheus**, **Grafana**, **Github Actions**
+- 🛠️ Ferramentas que uso no dia a dia: **Docker**, **Kubernetes**, **Terraform**, **Terragrunt**, **Prometheus**, **Grafana**, **Github Actions**, **ArgoCD**
 - 💻 Programação com **Bash**, **Go**, **Yaml**, **Gotmpl**
 - 🗣️ Sempre aberto para aprender novas ferramentas e melhorar processos de operação
 
